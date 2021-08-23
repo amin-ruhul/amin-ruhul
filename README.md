@@ -14,6 +14,6 @@ Database
 
 Frontend:
 - React,Bootstrap,Material-ui
-- 
+
 Version Control:
 - Github
