@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I Am Ruhul Amin 👋
 
-<!--
-**amin-ruhul/amin-ruhul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Next js
+- 💬 Ask me about React/Node
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amin-ruhul/) [Facebook](https://www.facebook.com/ruhulaminraseel/)
 
-Here are some ideas to get you started:
+Technologies I'm comfortable with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend:
+- NodeJS, ExpressJs,Php
+
+Database
+- Mysql, MongoDB, PostgreSQL
+
+Frontend:
+- React,Bootstrap,Material-ui
+- 
+Version Control:
+- Github
