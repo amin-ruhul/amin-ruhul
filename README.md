@@ -20,7 +20,7 @@ As a software engineer with 2+ years of industry experience, I have a passion fo
 
 
 ## 📈 My GitHub Stats
-![ruhul's Stats](https://github-readme-stats.vercel.app/api?username=amin-ruhul&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
 
 ![ruhul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amin-ruhul&theme=darcula&hide_border=true)
 
