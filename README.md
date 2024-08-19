@@ -1,6 +1,6 @@
 ### Hi, I Am Ruhul Amin 👋
 
-As a software engineer with 2+ years of industry experience, I have a passion for problem-solving and a curious mind that thrives on learning. With hard work, dedication, and persistence I always try to find effective solutions to complex problems. My objective is to continuously grow through a rewarding and challenging career in software development.
+As a software engineer with 3+ years of industry experience, I have a passion for problem-solving and a curious mind that thrives on learning. With hard work, dedication, and persistence I always try to find effective solutions to complex problems. My objective is to continuously grow through a rewarding and challenging career in software development.
 
 ---
 
