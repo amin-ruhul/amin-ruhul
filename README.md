@@ -1,6 +1,9 @@
 ### Hi, I Am Ruhul Amin 👋
 
-As a software engineer with 3+ years of industry experience, I have a passion for problem-solving and a curious mind that thrives on learning. With hard work, dedication, and persistence I always try to find effective solutions to complex problems. My objective is to continuously grow through a rewarding and challenging career in software development.
+As a software engineer with 3 years of hands-on experience, I have a passion for problem-solving and a
+curious mind that thrives on learning. With hard work, dedication, and persistence I always try to find
+effective solutions to complex problems. My objective is to continuously grow through a rewarding and
+challenging career in software development.
 
 ---
 
@@ -26,11 +29,12 @@ As a software engineer with 3+ years of industry experience, I have a passion fo
 
 ![ruhul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-ruhul&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-
+<!-- 
 ## 📫 You can find me @
-<!-- YOU-CAN-FIND-ME:START -->
+YOU-CAN-FIND-ME:START 
 - [LinkedIn](https://www.linkedin.com/in/amin-ruhul/) 💼
 - [Facebook](https://www.facebook.com/ruhulaminraseel/) 😏
 <!-- YOU-CAN-FIND-ME:END -->
+
 
 
