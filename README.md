@@ -34,25 +34,4 @@ I'm a passionate **Software Engineer** with **4 years** of hands-on experience b
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![ruhul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amin-ruhul&theme=darcula&hide_border=true&background=0D1117)
-
-![ruhul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-ruhul&theme=darcula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117)
-
-![ruhul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-ruhul&theme=darcula&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117)
-
-</div>
-
----
-
-
-<div align="center">
-
-**Thanks for visiting my profile!** ⭐
-
-</div>
