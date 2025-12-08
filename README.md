@@ -1,40 +1,58 @@
-### Hi, I Am Ruhul Amin 👋
+<div align="center">
 
-As a software engineer with 3 years of hands-on experience, I have a passion for problem-solving and a
-curious mind that thrives on learning. With hard work, dedication, and persistence I always try to find
-effective solutions to complex problems. My objective is to continuously grow through a rewarding and
-challenging career in software development.
+# 👋 Hi, I'm Ruhul Amin
+
+### Software Engineer | Problem Solver | Continuous Learner
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-ruhul/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ruhulaminraseel/)
+
+</div>
 
 ---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Next Js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-000000?style=flat-square&logo=axios&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+## 🚀 About Me
+
+I'm a passionate **Software Engineer** with **4 years** of hands-on experience building scalable web applications. I thrive on solving complex problems and turning ideas into reality through clean, efficient code. My journey in software development is driven by curiosity, dedication, and a commitment to continuous learning.
+
+**What I bring to the table:**
+
+- 💡 Creative problem-solving approach
+- 🔧 Strong technical expertise across modern web technologies
+- 🎯 Focus on delivering high-quality, maintainable solutions
+- 📚 Eager to learn and adapt to new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![ruhul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amin-ruhul&theme=darcula&hide_border=true&background=0D1117)
+
+![ruhul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-ruhul&theme=darcula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117)
+
+![ruhul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-ruhul&theme=darcula&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117)
+
+</div>
+
+---
 
 
+<div align="center">
 
-## 📈 My GitHub Stats
+**Thanks for visiting my profile!** ⭐
 
-
-![ruhul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amin-ruhul&theme=darcula&hide_border=true)
-
-![ruhul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-ruhul&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-
-<!-- 
-## 📫 You can find me @
-YOU-CAN-FIND-ME:START 
-- [LinkedIn](https://www.linkedin.com/in/amin-ruhul/) 💼
-- [Facebook](https://www.facebook.com/ruhulaminraseel/) 😏
-<!-- YOU-CAN-FIND-ME:END -->
-
-
-
+</div>
